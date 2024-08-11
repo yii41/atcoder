@@ -1,3 +1,5 @@
+# in progress
+
 def make_s_list(n, s):
     s.reverse()
     s_list = []
